@@ -1,5 +1,5 @@
 ---
-image_path: /images/seafood/2.jpg
+image_path: /images/seafood/2.jpeg
 title: 基围虾
 weight: 2
 recipe_url: /posts/2016-01-01-what-is-sour-dough

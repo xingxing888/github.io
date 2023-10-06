@@ -1,5 +1,5 @@
 ---
-image_path: /images/cakes/lemon-cake.jpg
+image_path: /images/cakes/1.jpeg
 title: 基围虾
 weight: 8
 recipe_url: /posts/2016-01-01-what-is-sour-dough
